@@ -4,15 +4,15 @@ This repository contains a collection of Python scripts for various tasks.
 
 ## Included Scripts
 
-- **csvtojson-batchuploadgcs:**
+- **[csvtojson-batchuploadgcs](./csvtojson-batchuploadgcs):**
     - Converts a CSV file to a JSON file.
     - Downloads images from URLs listed in the CSV.
     - Uploads the downloaded images to Google Cloud Storage.
     - See the [README](./csvtojson-batchuploadgcs/README.md) for more details and usage instructions.
-- **Image-Compressor:**
+- **[image-compressor](./image-compressor):**
     - Compresses images to JPEG format with adjustable quality.
     - See the [README](./image-compressor/README.md) for requirements and usage instructions.
-- **PDF-to-Image:**
+- **[pdf-to-image](./pdf-to-image):**
     - Extracts pages from a PDF file and saves them as individual image files.
     - See the [README](./pdf-to-image/README.md) for requirements and usage instructions.
 

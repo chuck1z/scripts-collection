@@ -11,10 +11,10 @@ This repository contains a collection of Python scripts for various tasks.
     - See the [README](./csvtojson-batchuploadgcs/README.md) for more details and usage instructions.
 - **Image-Compressor:**
     - Compresses images to JPEG format with adjustable quality.
-    - See the README for requirements and usage instructions.
+    - See the [README](./image-compressor/README.md) for requirements and usage instructions.
 - **PDF-to-Image:**
     - Extracts pages from a PDF file and saves them as individual image files.
-    - See the README for requirements and usage instructions.
+    - See the [README](./pdf-to-image/README.md) for requirements and usage instructions.
 
 ## Contributing
 

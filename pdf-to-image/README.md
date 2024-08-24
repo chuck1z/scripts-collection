@@ -7,7 +7,7 @@ A simple Python script to extract pages from a PDF file and save them as individ
 - pymupdf
 
 ## Usage
-Make sure you have pymupdf installed
+Make sure you have pymupdf installed:
 ```
 pip install PyMuPDF
 ```
